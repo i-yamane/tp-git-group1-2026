@@ -1,4 +1,4 @@
-class Trottinette
+class Trottinette:
     def __init__(self):
         print('Hello')
     
