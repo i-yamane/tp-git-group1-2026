@@ -7,4 +7,4 @@ class Moto:
     def accelere(self, increment):
         if increment > 15:
             increment = 15
-        self.vitesse = min(150, self.vitesse + increment)
+        self.vitesse = min(102, self.vitesse + increment)
